@@ -1,0 +1,22 @@
+\version "2.18.2"
+
+#(set-default-paper-size "a4" 'portrait)
+
+\include "cricket_0.0.ly"
+\include "cricket_0.1.ly"
+\include "cricket_0.2.ly"
+\include "cricket_0.4.ly"
+\include "cricket_0.5.ly"
+\include "cricket_0.6.ly"
+\include "cricket_0.7.ly"
+\include "cricket_0.13.ly"
+\include "cricket_0.18.ly"
+\include "cricket.1.ly"
+\include "cricket.3.ly"
+\include "cricket.4.ly"
+\include "cricket.5.ly"
+\include "cricket.7.ly"
+\include "cricket.9.ly"
+\include "cricket.12.ly"
+\include "cricket.14.ly"
+\include "cricket.16.ly"
